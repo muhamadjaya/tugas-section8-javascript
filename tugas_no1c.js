@@ -23,8 +23,9 @@ if (terdaftar === true) {
 }
 
 a = b;
-nama = b;
+// nama = b;
 
-console.log("asal diakses = " + asal);
-console.log("a adalah = " + a);
-console.log("b adalah = " + b);
+// console.log("asal diakses = " + asal);
+// console.log("a adalah = " + a);
+// console.log("b adalah = " + b);
+perkenalan(nama, a, b); // Soal no 1c. Lakukan pemanggilan untuk function perkenalan pada baris 31.
